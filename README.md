@@ -45,8 +45,19 @@ The database is made in PostGreSQL
 
 Communication to Heroku is done through HTTPS 
 
+##   DATA BASE
+  ### Our database have 6 entity and each have multiple attributes 
+  
+  ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic11.png)
+
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic12.png)
+
+ 
+ 
+
  
 ## Admin INTERFACE
+if we want to login as admin .we have to navigate the login page though the url  and its looks like this 
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic8.png)
 
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic9.png)
