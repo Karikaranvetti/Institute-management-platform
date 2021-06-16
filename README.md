@@ -4,7 +4,7 @@ this a web app that's managing institute staff and students details and market t
 
 **Hello everyone!! Welcome to My project.**  
 
- ![top](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine/blob/main/docs/Milestone%203.png)
+ ![top](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic1.png)
 
 [**Click here to check our deployed website!!**](https://new-success-college.herokuapp.com/)
  
@@ -17,21 +17,7 @@ this a web app that's managing institute staff and students details and market t
  
    
    
-   ## Table of contents
-
-1. >[Problems](https://github.com/cepdnaclk//e16-3yp-smart-vending-machine#problems)
-2. >[Overview](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#overview)
-3. >[Solutions](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#solutions)
-4. >[Technologies](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#technologies)
-5. >[Software Architecture](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#Software)
-6. >[User Interface](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#Interface)
-7. >[Hardware Components](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#Components)
-8. >[Hardware Design](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#Design)
-9. >[Hardware simulation](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#simulation)
-10. >[Testing](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#testing)
-11. >[Detailed budget](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#budget)
-12. >[Links](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine#Links)
-
+    
  
  ## PROBLEMS
    Lack of 24 hrs Open Shops.MRP products sold for higher prices.Having a big space for a shop.Having to pay for the products with cash most of the time.Easy to hack Traditional vending machine.Prices and Expiry dates are not checked by the  Traditional vending machine.
