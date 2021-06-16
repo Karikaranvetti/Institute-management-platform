@@ -46,23 +46,38 @@ The database is made in PostGreSQL
 Communication to Heroku is done through HTTPS 
 
  
-
- 
-
-## INTERFACE
- 
- 
- 
- 
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic1.png)
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic2.png)
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic3.png)
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic4.png)
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic5.png)
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic6.png)
-![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic7.png)
+## Admin INTERFACE
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic8.png)
+
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic9.png)
+
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic10.png)
+ 
+
+## USER INTERFACE
+ 
+ This our home page looks like here we can navigate all content in the site 
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic1.png)
+
+If we go to Services its looks like this and its all are dynamic data render from data base 
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic2.png)
+
+If we go to Courses its looks like this and its all are dynamic data render from data base 
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic3.png)
+
+
+if we click the a blog its pop up and show about that course details this deatils also dynamic 
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic4.png)
+
+If we go to About  its looks like this and its all are dynamic data render from data base 
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic5.png)
+
+If we go to TEAM   its looks like this and its all are dynamic data render from data base and its connected to team members pesonal web links 
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic6.png)
+
+If we go to Contact its looks like this . Through this users can message admin and   this mail will sent to admin
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic7.png)
+
+
   
   
