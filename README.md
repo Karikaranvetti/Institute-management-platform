@@ -16,7 +16,11 @@ this a web app that's managing institute staff and students details and market t
    
  
    
-   
+ 1. >[Problems](https://github.com/Karikaranvetti/Institute-management-platform#overview)
+2. >[SOFTWARE](https://github.com/Karikaranvetti/Institute-management-platform#SOFTWARE)
+3. >[DATABASE](https://github.com/Karikaranvetti/Institute-management-platform#DATABASE)
+4. >[Admin INTERFACE](https://github.com/Karikaranvetti/Institute-management-platform#Admin_INTERFACE)  
+5. >[USER INTERFACE](https://github.com/Karikaranvetti/Institute-management-platform#USER_INTERFACE)  
     
  
 
@@ -45,7 +49,7 @@ The database is made in PostGreSQL
 
 Communication to Heroku is done through HTTPS 
 
-##   DATA BASE
+##   DATABASE
   ### Our database have 6 entity and each have multiple attributes 
   
   ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic11.png)
@@ -56,7 +60,7 @@ Communication to Heroku is done through HTTPS
  
 
  
-## Admin INTERFACE
+## Admin_INTERFACE
 if we want to login as admin .we have to navigate the login page though the url  and its looks like this 
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic8.png)
 
@@ -65,7 +69,7 @@ if we want to login as admin .we have to navigate the login page though the url 
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic10.png)
  
 
-## USER INTERFACE
+## USER_INTERFACE
  
  This our home page looks like here we can navigate all content in the site 
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic1.png)
