@@ -54,6 +54,15 @@ Communication to Heroku is done through HTTPS
  
  
  
-![interface](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine/blob/main/docs/ui1.jpeg)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic1.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic2.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic3.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic4.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic5.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic6.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic7.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic8.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic9.png)
+![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic10.png)
   
   
