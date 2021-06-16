@@ -64,8 +64,10 @@ Communication to Heroku is done through HTTPS
 if we want to login as admin .we have to navigate the login page though the url  and its looks like this 
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic8.png)
 
+A login admin will get this kind of dash board setup here .the admin can add modify delete all things can be do in here
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic9.png)
 
+If a admin decided to add or modify or delete any content in database the admin panel dashboard looks like this
 ![interface](https://github.com/Karikaranvetti/Institute-management-platform/blob/main/Doc/pic10.png)
  
 
