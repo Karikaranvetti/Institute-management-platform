@@ -1,6 +1,6 @@
-# Institute-management-platform-
+# Institute management platform
 this a web app that's managing institute staff and students details and market their services 
-# Smart Vending Machine
+ 
 
 **Hello everyone!! Welcome to My project.**  
 
@@ -19,55 +19,23 @@ this a web app that's managing institute staff and students details and market t
    
     
  
- ## PROBLEMS
-   Lack of 24 hrs Open Shops.MRP products sold for higher prices.Having a big space for a shop.Having to pay for the products with cash most of the time.Easy to hack Traditional vending machine.Prices and Expiry dates are not checked by the  Traditional vending machine.
-    ![problems](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine/blob/main/docs/COMPARISON-FA-01.jpg)
-     
 
 
  ## OVERVIEW
-  In Smart vending machine we are addresiing the problems faced by the companies and the Consumers in communication and 
-  transaction. We hope to give a real time analysis of the market for each and every product available in the vending machine.
+ This a marketing and managing institute staff and students details . this all content and datas are controlled by platform admin because all content in the site is dynamic data.witch can modifed by admin 
   
-![overview](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine/blob/main/docs/show2.png)
-
-  The software architecture works like the above mentioned picture First user accesses the web application and he chooses the products and the interface was made by the Python Django and the details are updated in to the database which is made by MongoDB And it is al so in the server which is The Amazon EC3 instance All the communications are done through https. There is an API in the machine which connects the sever to get the Validation requests.Finally the Machine dispences the item chose by the user
-  
-  
- ## SOLUTIONS
-  Problems in having a traditional vending machine are - Having to pay for the products with cash most of the time.Easy to hack Traditional vending machine.Prices and Expiry dates are not checked by the Traditional vending machine.
-
-![overview](https://github.com/cepdnaclk/e16-3yp-smart-vending-machine/blob/main/docs/show1.png)
-the solution to all the problem is a Smart vending machine which has the (Gender ,Age ,generation wise) analysis , 24 hours Distribution and vending services , Transaction Datbase services. Which can be used to check the performance of a product in a specific market.Prices and expiry dates are real time because it is connected to the cloud.
- 
-
-  
- ## TECHNOLOGIES
-  ### Cashless payments																
-   * Using mobil e payment methods and  Card Transaction .
-  ### Smartphone interaction																
-   * Using smart phones to selection of the products , using the money transfer systems		
-     like the help of google wallet.
-  ### Energy-Saving Vending															
-   * Making sure the vending machine only works when a customers there. 
-     Minor changes can be made to ensure energy saving.
-
 ##   SOFTWARE  
   ### Back End Tasks Done
 #### User Registration (User /Admin/Companies)
-Where users are classified into who they are according to their Credential. These Roles can determine the access given to a selected user.
-#### Payment Handling
-
-Payment Handling is done through PayPal Which is a secured Payment Gateway
+here admins are classified as superusers so they have to use their Credential to login 
+ 
 #### Add /Modify/Delete Items
 
-The admin can Edit any information about the items available
+The admin can Edit any information about the Courses ,Services,About,Team details 
 #### Validation
 
-QR code is used for more security and also Django Rest API is used for validity
-#### Transactions
-
-Every Transaction Done can be Seen by an admin .The User can also see the previous Transactions done by him.
+Here students or needed person can Contact useing our website this email validation is given here 
+ 
 
 
 ### Server
@@ -75,23 +43,11 @@ Local server is made using Python Django
 
 The database is made in PostGreSQL
 
-Communication to AWS is done through HTTPS 
+Communication to Heroku is done through HTTPS 
 
-### Cloud Server
+ 
 
- Host in amazon EC2 Instance
-
-Nginix Server is used because Nginx is built to offer low memory usage and high concurrency. Rather than creating new processes for each web request, Nginx uses an asynchronous, event-driven approach where requests are handled in a single thread. With Nginx, one master process can control multiple worker processes.
-
-Gunicorn is used and it internally hands the calling of our flask code. This is done by having workers ready to handle the requests instead of the sequential one-at-a-time model that the default flask server provides. The end result is our app can handle more requests per second
-
-Built with Python Django
-
-Used database PostGreSQL 
-
-### Rest API
-
-To authenticate we are using JSON web token because it securely transfers information between software and Hardware as an JSON file.It has 2 tokens one is access token which expires within 5 minutes . We are using Rate limit to make sure the hardware/Web Application does not get overloaded by API calls to the cloud and it is only 60 API calls per hour.It ensure the safety of the systems.We can do GET,PUT,POST,DELETE in the APIs that are available in the system. 
+ 
 
 ## INTERFACE
 
